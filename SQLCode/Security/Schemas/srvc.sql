@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [srvc] AUTHORIZATION [lobin]
+GO

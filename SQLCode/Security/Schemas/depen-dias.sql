@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [depen-dias] AUTHORIZATION [dbo]
+GO

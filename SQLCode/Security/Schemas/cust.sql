@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [cust] AUTHORIZATION [lobin]
+GO

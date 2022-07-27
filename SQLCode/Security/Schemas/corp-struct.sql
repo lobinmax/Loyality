@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [corp-struct] AUTHORIZATION [dbo]
+GO
